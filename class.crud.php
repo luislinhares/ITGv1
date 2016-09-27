@@ -140,7 +140,7 @@ class crud
 					
 					<td>
 					<?php 
-						
+					// O PROBLEMA COMEÇA AQUI, VAI BUSCAR TODAS OS PRODUTOS MAS SÓ FUNCIONA PARA A PRIMEIRA IMAGEM	
 						
 					 print '
 		
